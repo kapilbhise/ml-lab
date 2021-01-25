@@ -1,7 +1,7 @@
 import pandas as pd 
 
 # read csv file
-df=pd.read_csv("2.csv",header=0)
+df=pd.read_csv("https://github.com/kapilbhise/ml-lab/blob/main/g.csv",header=0)
 dataset = df.values.tolist()
 print(df)
 dataset = df.values.tolist()
