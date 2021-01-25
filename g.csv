@@ -1,0 +1,11 @@
+Color,Acidity,Citric Acid,Sugar,Chlorides,Sulphur Dioxide,Density,pH,Sulphate,Export
+White,Low,Low,Light,Minimum,Minimum,Medium,Low,Small,Yes
+Red,High,Low,Heavy,Maximum,Maximum,Low,Low,Small,No
+White,Low,Low,Light,Minimum,Minimum,High,Low,Small,Yes
+White,Average,Low,Heavy,Maximum,Minimum,High,Low,Small,No
+Red,Average,Low,Standard,Minimum,Minimum,Low,Low,Small,Yes
+White,Average,Low,Standard,Maximum,Minimum,Medium,Low,Small,Yes
+Red,Low,Low,Heavy,Maximum,Maximum,High,Low,Small,No
+Red,Average,Low,Heavy,Maximum,Minimum,High,Low,Small,No
+White,Low,Low,Heavy,Maximum,Maximum,High,Low,Small,No
+Red,Low,Low,Light,Minimum,Minimum,Medium,Low,Small,Yes
