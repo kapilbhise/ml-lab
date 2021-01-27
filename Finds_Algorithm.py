@@ -1,6 +1,6 @@
 import pandas as pd
 
-df=pd.read_csv("1.csv")
+df=pd.read_csv("https://raw.githubusercontent.com/kapilbhise/ml-lab/main/g.csv")
 dataset = df.values.tolist()
 
 print("\nThe Given Data Set \n")
